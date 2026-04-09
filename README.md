@@ -112,7 +112,7 @@ Included:
 
 ## Important Copyright Note
 
-This repo does **not** include direct copies of copyrighted themes from franchises such as *Death Note*, *NieR*, or *Silent Hill*.
+This repo does **not** include direct copies of copyrighted themes.
 
 Instead, the dark loops are **original mood pieces** made to sit in a similar emotional lane:
 
