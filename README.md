@@ -178,3 +178,8 @@ If these samples help your production, consider supporting:
 ---
 
 *Built by [TizWildin Entertainment](https://github.com/GareBear99/TizWildinEntertainmentHUB) · 2026*
+
+*"Great sound shouldn't cost anything"*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140" alt="footer banner" />
+</p>
