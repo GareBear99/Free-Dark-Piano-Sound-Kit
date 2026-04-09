@@ -6,7 +6,7 @@
 <a href="https://buymeacoffee.com/garebear99"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
 <a href="https://ko-fi.com/luciferai"><img src="https://img.shields.io/badge/Ko--fi-ff5e5b?style=flat&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
 
-nnA free dark piano sound kit featuring:
+free dark piano sound kit featuring:
 
 `dark-piano` `cinematic` `horror-audio` `game-audio` `piano-loops` `midi` `wav` `ambient` `sample-pack` `film-scoring`
 
