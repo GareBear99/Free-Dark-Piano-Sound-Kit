@@ -137,7 +137,7 @@ You may use this pack for:
 
 Attribution is appreciated but not required.
 
-## Suggested GitHub Topics
+## GitHub Topics
 
 ```text
 dark-piano
