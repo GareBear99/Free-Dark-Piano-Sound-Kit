@@ -7,6 +7,8 @@
 
 A free dark piano sound kit featuring:
 
+`dark-piano` `cinematic` `horror-audio` `game-audio` `piano-loops` `midi` `wav` `ambient` `sample-pack` `film-scoring`
+
 - **88 single piano notes** from **A0 to C8** as `.wav`
 - **BPM-tracked loop packs** as `.wav` and `.mid`
 - **Classical loop category** for public-domain motifs
