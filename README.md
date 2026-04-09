@@ -1,4 +1,4 @@
-# AAA Dark Piano Sound Kit
+# Free Dark Piano Sound Kit
 
 A free GitHub-ready dark piano sound kit featuring:
 
